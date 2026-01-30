@@ -35,6 +35,8 @@ Implementei todas as funcionalidades obrigatórias e várias de valorização (f
 - [x] **Gestão de Avarias (Fora da caixa)**: Botão para reportar avarias com descrição e registo automático de data e hora.
 - [x] **Histórico de Manutenção (Fora da caixa)**: Registo de intervenções técnicas (limpezas, upgrades, etc.).
 - [x] **Interface Responsiva (Fora da caixa)**: Design moderno utilizando Bootstrap 5 e ícones dinâmicos.
+- [X] **Autenticação de utilizadores (Fora de caixa)**: Sistema de login e registro seguro.
+- [X] **Dashboard de estatísticas (Fora de caixa)**: Resumo visual do total de PCs, avarias ativas e salas no sistema
 
 ---
 
